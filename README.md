@@ -3,16 +3,12 @@
 </p>
 
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Utkarsh Pathrabe
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Dr. Mridul Sharma
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from India." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a Researcher based in Montreal." />
 </p>
-
-<h3 align='center' style='margin: 16px 4px;'>
-    <a href='https://utkarshpathrabe.com/'>My Portfolio Website</a>
-</h3>
 
 <h3 align="justify">
     I currently hold the esteemed position of Senior System Software Engineer at NVIDIA Graphics Pvt. Ltd, based in Pune, India. My professional journey has been marked by significant roles at prominent organizations. I previously served as a Senior Associate Software Engineer at J P Morgan Chase & Co. in Bengaluru, where I contributed to impactful projects. I also had the privilege of interning at J P Morgan Chase & Co. in Mumbai, further expanding my experience within the organization.<br /><br />
