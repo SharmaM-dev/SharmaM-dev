@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Utkarsh Pathrabe
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, I'm Dr. Mridul Sharma
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
