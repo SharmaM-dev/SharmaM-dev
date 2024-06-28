@@ -31,17 +31,6 @@
 </p>
 
 
-<p align="center" style='margin: 16px 4px 8px;'>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=SharmaM-dev&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
-    </a>
-</p>
-
-<p align="center" style='margin: 16px 4px 16px;'>
-    <a href="https://twitter.com/utkarshpathrabe" target="blank">
-        <img src="https://img.shields.io/twitter/follow/utkarshpathrabe?logo=twitter&style=for-the-badge" alt="twitter followers" />
-    </a>
-</p>
 
 <p align='center' style='font-size: 16px;'>
     ⚡ Fun fact: <strong>It is never too late to learn something.</strong>
@@ -286,7 +275,7 @@
 </h3>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshpathrabe&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SharmaM-dev&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
