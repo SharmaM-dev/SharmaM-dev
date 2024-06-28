@@ -279,11 +279,11 @@
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=utkarshpathrabe&show_icons=true&locale=en&theme=gruvbox" alt="utkarshpathrabe" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SharmaM-dev&show_icons=true&locale=en&theme=gruvbox" alt="utkarshpathrabe" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpathrabe&theme=gruvbox" alt="utkarshpathrabe" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharmaM-dev&theme=gruvbox" alt="utkarshpathrabe" />
 </p>
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
