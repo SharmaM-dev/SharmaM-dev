@@ -243,20 +243,7 @@
     Stats
 </h3>
 
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SharmaM-dev&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="utkarshpathrabe" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=SharmaM-dev&show_icons=true&locale=en&theme=gruvbox" alt="utkarshpathrabe" />
-</p>
-
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharmaM-dev&theme=gruvbox" alt="utkarshpathrabe" />
-</p>
 
 
-<p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
-</p>
+
 
